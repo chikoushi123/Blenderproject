@@ -36,7 +36,7 @@ The project explores different camera motions, angles, and scene composition to 
 https://hhekbonn-my.sharepoint.com/:u:/g/personal/dli_hhek_de/IQC9-BDsIqD6RbXwXLhIPYsWASXRcRZeKrkbNuH6us2wpnE?e=XJPfFq
 
 ---
-
+![Project Preview](./屏幕截图%202026-03-15%20163552.png)
 ## My Role
 3D modeling, asset preparation, animation planning and visual presentation.
 
