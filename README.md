@@ -36,16 +36,6 @@ The project explores different camera motions, angles, and scene composition to 
 https://hhekbonn-my.sharepoint.com/:u:/g/personal/dli_hhek_de/IQC9-BDsIqD6RbXwXLhIPYsWASXRcRZeKrkbNuH6us2wpnE?e=XJPfFq
 
 ---
-### Isometrie 3D Interior – Multi-Room Environment Design
-A stylized 3D visualization of a multi-room house interior.
-
-The project combines several living spaces into one cohesive environment, featuring areas for work, relaxation, and daily life.
-Its purpose is to showcase interior modeling, scene composition, and the visual organization of space in a clear and engaging way.
-
-👉 Blender file:  
-https://hhekbonn-my.sharepoint.com/:u:/g/personal/dli_hhek_de/IQCHkavOxgrVQKWbnTYlEh2GASgvQ72QANGQWH230SEu-Lg?e=ofHjM9
-
----
 
 ## My Role
 3D modeling, asset preparation, animation planning and visual presentation.
